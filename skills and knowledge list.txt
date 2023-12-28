@@ -1,6 +1,7 @@
 > 3 week sprint focus proiorities, my A+ problem (each line is the order position for each 3 week block of focus)
 To be clear, the first thing in the list has an active project related.
->  
+>  SLAM and neural networks applied in vehicles - The comma.ai Calibration Challenge!
+> Understand and apply: networking/browsers, from the transistor to google, HTML - Create a personal site
 
 My greatest A problems, are: important, urgent:
 > Python/Numpy/Pygame general software engineering/hacking
@@ -8,7 +9,6 @@ My greatest A problems, are: important, urgent:
 > Understand and apply: Full body locomotion, path planning
 > Understand and apply: Object manipulation - grasp, pick-and-place, rotate, opening doors
 > Understand and apply: Objection/pose detection (OpenCV)
-> Understand and apply: networking/browsers, from the transistor to google 
 > Understand and apply: 
 > Understand and apply: 
 > Understand and apply: Depth estimation
@@ -35,11 +35,15 @@ The biggest B problems, things I know are useful within 10 years and are: import
 > Understanding and apply Kernel, Docket, git, Linux
 Tackle problems across multiple domains including but not limited to high level decision-making, multi-agent interactions and trajectory generation
 > Undesrtand energy/tech type conversion (file types, energy transfers, the WHOLE CHAIN END TO END BABY)
-
+Knowledge of microcontroller peripherals such as ADC, GPIO, PWM , SPI and I2C
 > Understanding image processing and graphics
+> 
 
 Things that I have to learn soon but eh and are: not important urgent:
 > Java
 
 Things that are: not important, not urgent:
 > Continuous Integration/Continuous Deployment (CI/CD) tools like Jenkins or Travis CI
+
+Ideas:
+> Autonomus supply chain management, find points of cost and reduce with robotic + managed by NLP autonomous agents/robots.

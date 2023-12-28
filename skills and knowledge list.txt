@@ -5,7 +5,7 @@ To be clear, the first thing in the list has an active project related.
 
 My greatest A problems, are: important, urgent:
 > Python/Numpy/Pygame general software engineering/hacking
-> Mastering PyTorch, understanding and apply neural networks (model details, loss formulations, algos)
+> Mastering PyTorch/SciPy, understanding and apply neural networks (model details, loss formulations, algos)
 > Understand and apply: Full body locomotion, path planning
 > Understand and apply: Object manipulation - grasp, pick-and-place, rotate, opening doors
 > Understand and apply: Objection/pose detection (OpenCV)

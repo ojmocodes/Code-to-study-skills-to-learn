@@ -1,0 +1,45 @@
+> 3 week sprint focus proiorities, my A+ problem (each line is the order position for each 3 week block of focus)
+To be clear, the first thing in the list has an active project related.
+>  
+
+My greatest A problems, are: important, urgent:
+> Python/Numpy/Pygame general software engineering/hacking
+> Mastering PyTorch, understanding and apply neural networks (model details, loss formulations, algos)
+> Understand and apply: Full body locomotion, path planning
+> Understand and apply: Object manipulation - grasp, pick-and-place, rotate, opening doors
+> Understand and apply: Objection/pose detection (OpenCV)
+> Understand and apply: networking/browsers, from the transistor to google 
+> Understand and apply: 
+> Understand and apply: 
+> Understand and apply: Depth estimation
+> Understand and apply: fundamental geometric concepts such as perspective transformation, pinhole camera model, and epipolar geometry
+> Understand and apply: Model quantization in deep learning 
+> Understad and apply: Imitaion learning, and reinforcemnt learning.
+> Implement end to end: Sensors, planning+processing, and execution in a real robot.
+> Understand Vector and optimisation Calculus, Linear Algebra, Bayesian and otherwise probability, numerical optimisation
+
+The biggest B problems, things I know are useful within 10 years and are: important, not urgent:
+> C++
+> Experience developing modern planning approaches such as search, sampling, trajectory optimization and model predictive control on real robots.
+> For NLP, do an end to end application with a physical Ai
+> Understand distributed deep learning
+> Understand GPU's/TPU's/AlgoComplexity(time taken)/CUDA for training neural networks
+> Understand and apply: Spark, SQL, other data structures
+> Understand and apply: Visual inertial odometry
+> Understand and apply: Structure from motion
+> Understand and apply: 3D reconsctruction
+> Understand and apply: Tacticle sensors, camera sensors, moisture/chemical sensors
+> Understand and apply: State machines and behaviour trees
+> Understand and apply: Beahviour authoring/coordination tools
+> Understand and apply: SLAM (online and offline state estimation, fuse info from IMU's, stereo cameras)
+> Understanding and apply Kernel, Docket, git, Linux
+Tackle problems across multiple domains including but not limited to high level decision-making, multi-agent interactions and trajectory generation
+> Undesrtand energy/tech type conversion (file types, energy transfers, the WHOLE CHAIN END TO END BABY)
+
+> Understanding image processing and graphics
+
+Things that I have to learn soon but eh and are: not important urgent:
+> Java
+
+Things that are: not important, not urgent:
+> Continuous Integration/Continuous Deployment (CI/CD) tools like Jenkins or Travis CI

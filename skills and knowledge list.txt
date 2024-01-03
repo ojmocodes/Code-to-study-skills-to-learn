@@ -2,6 +2,7 @@
 To be clear, the first thing in the list has an active project related.
 >  SLAM and neural networks applied in vehicles - The comma.ai Calibration Challenge!
 > Understand and apply: networking/browsers, from the transistor to google, HTML - Create a personal site
+> Use an arduino, servo motors, a driver, and 3d printed parts to do a simple robotics project (learn fusion360, ROS, etcetc)
 
 My greatest A problems, are: important, urgent:
 > Python/Numpy/Pygame general software engineering/hacking

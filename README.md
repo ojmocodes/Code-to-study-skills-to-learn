@@ -1,3 +1,3 @@
 # Learning
- 
-Just pieces of code to study, and a list of technical subjects I want to learn, prioritised. 
+
+The topics I want to learn, coding puzzles/challenges, pieces of code I want to study, and other stuff like that!
